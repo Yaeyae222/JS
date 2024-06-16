@@ -1,0 +1,62 @@
+* {
+    font-family: sans-serif;
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #1d2a35;
+    padding: 20px;
+}
+
+h1 {
+    text-decoration: underline 2px solid white;
+    text-underline-offset: 15px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.explain p:nth-child(1) {
+    color: red;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+.explain {
+    margin: 20px;
+}
+
+.syntax {
+    margin: 20px;
+}
+
+.syntax img {
+    width: 60%;
+    display: block;
+    margin: 20px auto;
+}
+
+.math span,
+.explain span,
+.order span {
+    color: rgb(230, 19, 19);
+    font-size: 20px;
+}
+
+div {
+    margin-bottom: 30px;
+}
+
+.order p {
+    word-spacing: 60px;
+}
+
+hr {
+    margin: 20px 0px;
+}
+
+.home {
+    font-size: 20px;
+    color: rgb(203, 23, 23);
+}

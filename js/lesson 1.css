@@ -1,0 +1,55 @@
+* {
+    font-family: sans-serif;
+    color: rgb(247, 244, 239);
+}
+
+body {
+    background-color: #1d2a35;
+}
+
+h1 {
+    text-decoration: underline 2px solid white;
+    text-underline-offset: 15px;
+    text-align: center;
+}
+
+p {
+    font-size: 20px;
+}
+
+div {
+    border: 1px solid white;
+    text-align: center;
+    width: 500px;
+    margin: auto;
+    margin-bottom: 30px;
+}
+
+.test p {
+    color: white;
+}
+
+span {
+    color: rgb(209, 23, 23);
+}
+
+.al p {
+    color: white;
+}
+
+.al p:nth-child(3) {
+    color: rgb(29, 132, 222);
+}
+
+.ex {
+    background-color: white;
+}
+
+.ex p {
+    color: black;
+    text-align: start;
+}
+
+.ex h3 {
+    color: black;
+}

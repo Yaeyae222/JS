@@ -1,0 +1,53 @@
+* {
+    font-family: sans-serif;
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #1d2a35;
+    padding: 20px;
+}
+
+h1 {
+    text-decoration: underline 2px solid white;
+    text-underline-offset: 15px;
+    text-align: center;
+}
+
+p {
+    color: red;
+}
+
+h3 {
+    text-decoration: underline 2px solid white;
+    text-underline-offset: 15px;
+    text-align: center;
+}
+
+img {
+    width: 700px;
+    margin: 10px;
+}
+
+.syntax {
+    width: 720px;
+    margin: auto;
+}
+
+.syntax p {
+    color: red;
+}
+
+span {
+    color: white;
+}
+
+.container {
+    margin-bottom: 20px;
+}
+
+hr {
+    margin-bottom: 20px;
+}

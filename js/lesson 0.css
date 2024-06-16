@@ -1,0 +1,19 @@
+* {
+    font-family: sans-serif;
+    color: white;
+}
+
+body {
+    height: 1000px;
+    background-color: rgb(25, 24, 24);
+}
+
+h1 {
+    text-align: center;
+    text-decoration: underline 2px solid white;
+    text-underline-offset: 15px;
+}
+
+p {
+    text-align: center;
+}
